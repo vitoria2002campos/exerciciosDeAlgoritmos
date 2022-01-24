@@ -1,3 +1,6 @@
+//Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boasvindas para ela:
+
+
 programa
 {
 	
@@ -6,7 +9,7 @@ programa
 	cadeia nome
 		escreva("Digite seu nome: ")
 		leia (nome)
-		escreva ("Seu nome é " +nome)
+		escreva ("Seja bem-vindo(a) " +nome + "!")
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -14,7 +17,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 95; 
+ * @POSICAO-CURSOR = 237; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
